@@ -1,0 +1,10 @@
+https://git-scm.com/book/en/v2
+https://www.sourcetreeapp.com/
+https://bitbucket.org/dashboard/overview
+
+
+Background="#0080ff"
+
+
+
+value="C:\Albertsons\ErrorLog\Errorlog.txt"
